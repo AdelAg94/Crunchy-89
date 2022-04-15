@@ -1,0 +1,21 @@
+.projects-list{
+    width: 100%;
+    height: 300px;
+}
+
+#mybott p{
+color: white;
+text-align: center;
+}
+
+#mytop h1{
+    color: white;
+}
+
+.container{
+    flex-wrap: nowrap;
+}
+
+.row{
+    flex-wrap: nowrap;
+}
